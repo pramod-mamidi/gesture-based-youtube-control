@@ -10,6 +10,7 @@ python gesture.py
 -selenium
 
 # gestures
-Use back side of the right hand\
-Refer gestures.pdf for the gestures\
-If chromedriver throws error check the version of your chrome and download the chromedriver of corresponding version.\
+-Use back side of the right hand\
+-Refer gestures.pdf for the gestures\
+-If chromedriver throws error check the version of your\
+chrome and download the chromedriver of corresponding version.
